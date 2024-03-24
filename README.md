@@ -1,2 +1,2 @@
 # Youtube-trending-video
-YouTube Trending Video
+This repo contains info on the project "YouTube Trending Video"
